@@ -18,7 +18,7 @@ Provides informative error messages to aid in troubleshooting.
 
 **Requirements**
 
-Python 3.x
-pandas
-request
-beautifulsoup4
+Python 3.x ,
+pandas ,
+request ,
+beautifulsoup4 
