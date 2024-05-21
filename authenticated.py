@@ -9,7 +9,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Authentication credentials
-USERNAME = 'bhumika.jain@braneenterprises.com'
+# USERNAME = 'bhumika.jain@braneenterprises.com'
+# PASSWORD = 'lovemom@4'
+USERNAME = 'i.jainbhumika@gmail.com'
 PASSWORD = 'lovemom@4'
 
 # Initialize Chrome webdriver with necessary options
